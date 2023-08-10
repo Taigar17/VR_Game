@@ -8,3 +8,5 @@
 + W/A/S/D Keys - To move the player.
 + Shift Key - Hold this key while moving to sprint.
 + Space Bar Key - Press key to jump.
+
+- TO BE UPLOADED
